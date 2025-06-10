@@ -32,8 +32,6 @@
       $showError="Invalid Credentials!! ";
     }
   }
-  
-
 
 ?>
 
